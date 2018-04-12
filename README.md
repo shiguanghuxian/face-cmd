@@ -3,6 +3,8 @@
 
 1.识别人脸数 2.比对人脸
 
+人脸登录服务端在使用此命令[https://github.com/shiguanghuxian/face-login](https://github.com/shiguanghuxian/face-login)
+
 ## 编译步骤
 1.编译程序
 
